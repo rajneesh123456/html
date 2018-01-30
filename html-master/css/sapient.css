@@ -1,0 +1,72 @@
+
+.back1{
+	margin-top:0px;
+	position: relative;
+	
+}
+
+.logo{
+	margin-top: -780px;
+	color: white;
+	font-family: fantasy;
+	align-content: left;
+}
+.video{
+	margin-top: -430px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.intro{
+margin-top: -400px;
+margin-left: 540px;
+}
+.intro1{
+font-size: 30px;
+color:black;
+padding-bottom: 20px;
+}
+.intro2{
+font-size: 20px;
+padding-bottom: 10px;
+color:white;	
+}
+.intro3{
+font-size: 40px;
+color: white;
+padding-bottom: 20px;
+font-family: sans-serif;	
+}
+.black{
+	margin-top: -250px;
+	margin-left: 0px;
+	position: absolute;
+}
+.photo{
+	margin-top: -200px;
+	margin-left: 232px;
+    margin-right: 232px; 
+}
+.one{
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 10px;
+}
+.names li{
+	color:white;
+
+	margin-bottom: 500px;
+    display: inline;
+    margin-left: 60px;
+	margin-right: 50px;
+}
+
+.guru2 {
+padding-left: 90px;
+}
+.guru3 {
+padding-left: 60px;
+}
+.guru4 {
+padding-left: 80px;
+}
