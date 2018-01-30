@@ -1,0 +1,14 @@
+BODY{
+	font-family: sans-serif;
+	background-color: #e3e3e3;
+}
+.wrap{
+	width: 500px;
+	margin: auto;
+}
+BLOCKQUOTE
+{
+	border: 2px solid white;
+	text-align: center;
+	margin-left: 0px
+}
