@@ -1,1 +1,0 @@
-# ggn_batch
